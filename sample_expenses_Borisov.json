@@ -1,0 +1,51 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "spentOn": "2026-01-12",
+      "category": "Transport",
+      "amountKopeks": 186000,
+      "comment": "Такси до заказчика",
+      "createdAt": "2026-01-12T09:12:00"
+    },
+    {
+      "id": "2",
+      "spentOn": "2026-01-15",
+      "category": "Food",
+      "amountKopeks": 74550,
+      "comment": "Обед с Заказчиком",
+      "createdAt": "2026-01-15T14:02:00"
+    },
+    {
+      "id": "3",
+      "spentOn": "2026-01-15",
+      "category": "Office",
+      "amountKopeks": 250000,
+      "createdAt": "2026-01-15T16:40:00"
+    },
+    {
+      "id": "4",
+      "spentOn": "2026-01-20",
+      "category": "Other",
+      "amountKopeks": 9900,
+      "comment": "Парковка у офиса",
+      "createdAt": "2026-01-20T08:05:00"
+    },
+    {
+      "id": "5",
+      "spentOn": "2026-01-28",
+      "category": "Transport",
+      "amountKopeks": 540000,
+      "comment": "Билеты на поезд",
+      "createdAt": "2026-01-28T11:18:00"
+    },
+    {
+      "id": "6",
+      "spentOn": "2025-12-20",
+      "category": "Food",
+      "amountKopeks": 32000,
+      "comment": "Кофе для планёрки",
+      "createdAt": "2025-12-20T10:00:00"
+    }
+  ]
+}
